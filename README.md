@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough 1' />
+<img src='https://media.giphy.com/media/y7tU3Pr5YJ4WbmBf4a/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 1' />
 
 - Test functionality of seeing only 20 posts on Feed
 <img src='https://media.giphy.com/media/9eqUbSQxG62NXROICN/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 2' />
