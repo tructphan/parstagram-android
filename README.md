@@ -34,10 +34,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/5kVjeCJ' title='Video Walkthrough' width='' alt='Video Walkthrough 1' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough 1' />
 
 - Test functionality of seeing only 20 posts on Feed
-<img src='https://imgur.com/a/Y5ODqVk' title='Video Walkthrough' width='' alt='Video Walkthrough 2' />
+<img src='https://media.giphy.com/media/9eqUbSQxG62NXROICN/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 2' />
 
 ## Notes
 
